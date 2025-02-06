@@ -4,7 +4,6 @@
 - Contributing to open source projects that align with my intrests
 - Advocating for open-source principles and collaboration
   
-- 🌱 I’m currently learning Full Stack development at ALX_Africa
   
 - 💞️ I’m looking to collaborate on Open source projects, programming languages, web development
   
