@@ -1,78 +1,45 @@
-Hi, I’m Victor Chukwudi Robinson 👋
-Artificial Intelligence & Data Science | MSc AI & Data Science | Applied Machine Learning, AI Systems, Responsible AI
+# Hi, I’m Victor Chukwudi Robinson 👋
+
+### Artificial Intelligence & Data Science | MSc @ University of London | Applied ML, AI Systems & Responsible AI
 
 I work across the full AI lifecycle, from data engineering and model development to evaluation, deployment considerations, and governance. Currently completing an MSc in Artificial Intelligence and Data Science, my focus is on building robust, interpretable, and deployment-ready AI systems for real-world use.
 
 My interests span applied machine learning, healthcare AI, data-driven decision systems, and emerging AI governance frameworks — with an emphasis on designing systems that perform reliably under real-world constraints.
 
-🚀 What I Work On
+---
 
-🧠 Applied Machine Learning & Deep Learning
-Building and evaluating models for classification, prediction, clustering, and decision support using both classical ML and neural approaches.
+## 🛠️ Technical Skills & Tools
 
-🏥 Healthcare & High-Stakes AI
-Designing AI pipelines for healthcare and other safety-critical domains, incorporating human-in-the-loop decision-making, explainability, and risk-aware evaluation.
+### **Programming & Data**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-🔍 Data Engineering & Model Evaluation
-Focusing on data quality, preprocessing pipelines, feature engineering, model validation, performance metrics, and monitoring for bias and drift.
+### **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-⚖️ Responsible & Explainable AI
-Integrating interpretability, auditability, and governance considerations into AI system design, aligned with emerging regulatory and ethical standards.
+### **Visualization & Governance**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-🧩 End-to-End AI Systems
-Thinking beyond models to the full system: data → preprocessing → model → evaluation → human decision-making.
+---
 
-🛠️ Technical Skills & Tools
+## 🚀 What I Work On
 
-Programming & Data
+* 🧠 **Applied Machine Learning & Deep Learning** Building and evaluating models for classification, prediction, clustering, and decision support using both classical ML and neural approaches.
+* 🏥 **Healthcare & High-Stakes AI** Designing AI pipelines for safety-critical domains, incorporating human-in-the-loop decision-making, explainability, and risk-aware evaluation.
+* 🔍 **Data Engineering & Model Evaluation** Focusing on data quality, preprocessing pipelines, feature engineering, and monitoring for bias and drift.
+* ⚖️ **Responsible & Explainable AI** Integrating interpretability, auditability, and governance considerations aligned with emerging regulatory standards like the **EU AI Act**.
+* 🧩 **End-to-End AI Systems** Thinking beyond models to the full system: data → preprocessing → model → evaluation → human decision-making.
 
-Python (NumPy, pandas, scikit-learn)
+---
 
-SQL (relational databases, querying & analytics)
+## 📊 GitHub & Project Activity
+*The stats below represent my consistent commitment to technical growth and open-source contributions.*
 
-Machine Learning & AI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Robinson7070&show_icons=true&theme=radical" alt="Robinson7070's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinson7070&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-Supervised & Unsupervised Learning
+---
 
-Deep Learning (PyTorch)
-
-Model Evaluation & Validation
-
-Feature Engineering & Data Preprocessing
-
-Explainable AI (XAI concepts & tooling)
-
-Bias, fairness & model risk analysis
-
-Data Analysis & Visualisation
-
-Power BI
-
-Matplotlib / Seaborn
-
-Exploratory Data Analysis (EDA)
-
-AI Systems & MLOps (Foundational)
-
-ML pipelines & experiment tracking (conceptual & applied)
-
-Model lifecycle management
-
-Deployment considerations & monitoring (drift, performance decay)
-
-AI Governance & Ethics
-
-AI risk classification
-
-Human-in-the-loop system design
-
-EU AI Act & regulatory awareness
-
-Responsible AI frameworks
-
-📊 GitHub & Project Work
-
-I use GitHub to document a growing body of work across machine learning, data science, and AI system design — including experiments, coursework, applied projects, and ongoing exploration of real-world AI challenges.
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Robinson7070&show_icons=true&theme=radical" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinson7070&layout=compact&theme=radical" alt="Top Languages" /> </p>
-📫 Connect with Me
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robinson-victor)
