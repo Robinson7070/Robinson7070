@@ -13,7 +13,7 @@
 
 ## Hi, I'm Victor 👋
 
-I'm an AI engineer in the making, based in London and finishing my MSc at the University of East London. I trained as an electrical and electronic engineer and spent my first years at work keeping a company's computers, networks and paperwork running. I kept noticing the same thing: people lose hours to tasks a good system could do in seconds, and the best systems are the ones people can trust.
+I'm an AI engineer in the making, based in London and studying for my MSc at the University of East London. I trained as an electrical and electronic engineer and spent my first years at work keeping a company's computers, networks and paperwork running. I kept noticing the same thing: people lose hours to tasks a good system could do in seconds, and the best systems are the ones people can trust.
 
 That is what pulled me into AI. I'm fascinated by models that can explain themselves, that show you *why* they decided something and not only *what* they decided. It's why I built a malaria detector that draws a heatmap of what the model looked at, and why my dissertation checks supply chain paperwork and tells you honestly where it gets things wrong.
 
