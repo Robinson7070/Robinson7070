@@ -1,24 +1,61 @@
-<h1 align="center">Victor Chukwudi Robinson</h1>
-<p align="center"><b>ML and AI engineer · London, UK</b><br>MSc AI and Data Science, University of East London</p>
-<p align="center">I build retrieval, vision and document-checking systems, and I report how they perform, including where they fail.</p>
-<p align="center">
-  <a href="PORTFOLIO_LINK">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/robinson-victor">LinkedIn</a> ·
-  <a href="https://doi.org/10.5281/zenodo.23473886">Dissertation</a>
-</p>
-<p align="center"><img src="https://img.shields.io/badge/Open%20to-ML%20%26%20AI%20engineer%20roles-1E4FD6?style=flat-square" alt="Open to ML and AI engineer roles"></p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1A2B,100:1E4FD6&height=210&section=header&text=Victor%20Robinson&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20%C2%B7%20London&descSize=20&descAlignY=60" alt="Victor Robinson, ML and AI Engineer, London" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=1E4FD6&center=true&vCenter=true&width=760&height=40&lines=ML+and+AI+engineer+in+London;I+build+systems+that+show+their+working;20%2F20+on+the+test+sets.+0.57+on+the+hard+ones.+Both+reported.;Now+building+a+voice+agent+and+doc-compare" alt="ML and AI engineer in London. I build systems that show their working.">
+
+<br>
+
+<a href="PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0E1A2B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/robinson-victor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://doi.org/10.5281/zenodo.23473886"><img src="https://img.shields.io/badge/Dissertation%20DOI-1E4FD6?style=for-the-badge&logo=zenodo&logoColor=white" alt="Dissertation DOI"></a>
+
+<img src="https://img.shields.io/badge/Open%20to-ML%20%26%20AI%20engineer%20roles-1E4FD6?style=flat-square" alt="Open to ML and AI engineer roles">
+
+</div>
+
+<br>
 
 <table align="center">
 <tr>
-<td align="center" width="33%"><h2>20 / 20</h2>synthetic test sets classified correctly</td>
-<td align="center" width="33%"><h2>0.57</h2>recall on the harder 100-set corpus</td>
-<td align="center" width="33%"><h2>96.52%</h2>accuracy, malaria cell classifier</td>
+<td align="center" width="25%"><h2>20 / 20</h2>synthetic sets classified correctly</td>
+<td align="center" width="25%"><h2>0.57</h2>recall on the harder 100 sets</td>
+<td align="center" width="25%"><h2>96.52%</h2>malaria cell classifier accuracy</td>
+<td align="center" width="25%"><h2>8 / 8</h2>doc-compare dev sets, scans included</td>
 </tr>
 </table>
 
-## About
+## About me
 
-I like systems that can be checked. I build the test set first, keep a hold-out I do not tune against, and report the weak result next to the strong one.
+I am an MSc AI and Data Science student at the University of East London. I come from Nigeria, trained as an electrical and electronic engineer, worked in IT, then moved into machine learning. Engineering taught me to ask how a thing fails before I trust it, and I bring that to every model I build.
+
+What I care about is systems that can be checked: a test set built before the system, a hold-out I do not tune against, and the weak number reported next to the strong one. Long term I want to build products that businesses use and pay for.
+
+Outside work I play football and write technical articles on Medium.
+
+```text
+whoami      Victor Chukwudi Robinson
+location    London, UK (from Nigeria)
+studying    MSc AI and Data Science, UEL, finishing May 2027
+building    retrieval layer for a voice agent (Mobex UK), doc-compare
+learning    evaluating RAG systems, reading text from messy documents
+ask me      explainable models, document checking, honest evaluation
+```
+
+## My path
+
+```mermaid
+flowchart LR
+    A["BEng Electrical and<br/>Electronic Engineering<br/>Nigeria, 2017-2022"] --> B["IT Officer<br/>Petronella Nigeria<br/>2023-2024"]
+    B --> C["ML training<br/>ALX, 3MTT, Wedigraf<br/>2023-2025"]
+    C --> D["MSc AI and Data Science<br/>University of East London<br/>2025-2027"]
+    D --> E["Placement<br/>Mobex UK voice agent<br/>2026"]
+    style A fill:#0E1A2B,color:#fff,stroke:#0E1A2B
+    style B fill:#16335F,color:#fff,stroke:#16335F
+    style C fill:#1B4390,color:#fff,stroke:#1B4390
+    style D fill:#1E4FD6,color:#fff,stroke:#1E4FD6
+    style E fill:#3B6DF0,color:#fff,stroke:#3B6DF0
+```
 
 ## Currently
 
@@ -77,6 +114,8 @@ More: [pdf-rag-chatbot](https://github.com/Robinson7070/pdf-rag-chatbot) (ask qu
 **Engineering**<br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 
-## Contact
+## Say hello
 
 Open to ML and AI engineer roles in the UK. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/robinson-victor).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E4FD6,100:0E1A2B&height=110&section=footer" alt="" width="100%">
