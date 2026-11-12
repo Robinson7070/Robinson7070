@@ -9,6 +9,11 @@
   <a href="https://www.linkedin.com/in/robinson-victor">LinkedIn</a> ·
   <a href="https://doi.org/10.5281/zenodo.23473886">Dissertation (DOI)</a>
 </p>
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.23473886"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.23473886.svg" alt="DOI"></a>
+  <img src="https://img.shields.io/badge/Open%20to-ML%20%26%20AI%20engineer%20roles-1E4FD6?style=flat-square" alt="Open to ML and AI engineer roles">
+  <img src="https://img.shields.io/badge/Based%20in-London%2C%20UK-0E1A2B?style=flat-square" alt="London, UK">
+</p>
 
 ---
 
@@ -66,7 +71,38 @@ A FastAPI service that returns a prediction, a confidence score and a Grad-CAM h
 
 ## Tools
 
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `Keras` `LangChain` `FAISS` `FastAPI` `PySpark` `Tesseract OCR` `Grad-CAM`
+<table>
+<tr><td><b>Languages and data</b></td><td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4B5563?style=for-the-badge" alt="SQL">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</td></tr>
+<tr><td><b>Machine learning</b></td><td>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
+</td></tr>
+<tr><td><b>LLM and retrieval</b></td><td>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS">
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API">
+<img src="https://img.shields.io/badge/Hugging%20Face-B8860B?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face">
+</td></tr>
+<tr><td><b>Vision, OCR and explainability</b></td><td>
+<img src="https://img.shields.io/badge/CNNs-4B5563?style=for-the-badge" alt="CNNs">
+<img src="https://img.shields.io/badge/Vision%20Transformers-4B5563?style=for-the-badge" alt="Vision Transformers">
+<img src="https://img.shields.io/badge/Grad--CAM-4B5563?style=for-the-badge" alt="Grad-CAM">
+<img src="https://img.shields.io/badge/Tesseract%20OCR-4B5563?style=for-the-badge" alt="Tesseract OCR">
+</td></tr>
+<tr><td><b>Engineering</b></td><td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</td></tr>
+</table>
 
 ## How I work
 
